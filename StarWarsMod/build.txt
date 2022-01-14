@@ -1,0 +1,3 @@
+displayName = Star Wars Mod 2.0
+author = Vintage
+version = 0.1
